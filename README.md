@@ -60,7 +60,3 @@ Spring Boot • PostgreSQL • MySQL • Docker • AWS • Computação em Nuve
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacmoura23&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmoura23&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="160" />
-</p>
