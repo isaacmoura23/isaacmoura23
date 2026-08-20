@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 HTML • CSS • JavaScript • React  • Node.js • Next.js • Java • Git / GitHub • Spring Boot • PostgreSQL • MySQL • Linux
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextj,java,git,github,spring,postgres,mysql,linux" alt="Habilidades atuais" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,java,git,github,spring,postgres,mysql,linux" alt="Habilidades atuais" />
 </p>
 
 ## 🎯 Próximos passos e Tecnologias Futuras:
