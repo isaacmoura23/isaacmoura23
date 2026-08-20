@@ -37,16 +37,17 @@ Spring Boot • PostgreSQL • MySQL • Docker • AWS • Computação em Nuve
 
 - 🌐 [**portifolio-isaac**](https://github.com/isaacmoura23/portifolio-isaac) — Meu portfólio profissional em Next.js, com blog, projetos e workbench
 - 🏦 [**BankSoft**](https://github.com/isaacmoura23/BankSoft) — Sistema bancário em Java com login seguro, cadastro de contas, depósitos, saques e transferências
-- 📊 [**CRMProspec**](https://github.com/isaacmoura23/CRMProspec) — CRM de prospecção de clientes em TypeScript
-- 🏠 [**elite-imoveis**](https://github.com/isaacmoura23/elite-imoveis) — Landing page imobiliária em Next.js
-- 🏛️ [**StudioAres**](https://github.com/isaacmoura23/StudioAres) — Site para estúdio de arquitetura, engenharia e interiores
+- ⚡ [**Sistema_de_inkets_em_tempo_real**](https://github.com/isaacmoura23/Sistema_de_inkets_em_tempo_real) — Sistema de ingressos em tempo real em TypeScript
+- 🔧 [**workshop**](https://github.com/isaacmoura23/workshop) — Sistema de oficina em Java
+- ⚽ [**Ultrafoot26**](https://github.com/jovemegidio/Ultrafoot26) — Projeto de futebol em TypeScript (colaboração)
+- ✅ [**TodoList**](https://github.com/isaacmoura23/TodoList) — Lista de tarefas em Java
 
 ---
 
 ## 🌐 Conecte-se comigo:
 
 <p>
-  <a href="https://linkedin.com/in/isaac-moura" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-moura-589a75251/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/isaacmoura23" target="_blank">
