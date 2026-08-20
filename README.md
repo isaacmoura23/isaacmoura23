@@ -28,7 +28,7 @@ HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js •
 Spring Boot • PostgreSQL • MySQL • Docker • AWS • Computação em Nuvem • Linux • Cibersegurança
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,aws,linux,kotlin" alt="Tecnologias futuras" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,aws,linux" alt="Tecnologias futuras" />
 </p>
 
 ---
