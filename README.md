@@ -1,15 +1,15 @@
 <h1 align="center">É um prazer te ver aqui! Eu sou o Isaac Moura 🚀</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack transformando ideias em sites e sistemas de verdade — do front em Next.js ao back em Java.</b><br/>
-  Apaixonado por Lógica de Programação, interfaces bem feitas e um bom café ☕
+  <b>Desenvolvedor Java em busca de desafios para transformar ideias em soluções robustas como um futuro Arquiteto de Soluções.</b><br/>
+  Apaixonado por Lógica de Programação, Arquitetura de Software e um bom café ☕
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor Full Stack com foco em **TypeScript / Next.js / React** no front-end e **Java** no back-end. Já construí landing pages e sites profissionais para negócios reais — imobiliárias, lojas, estúdios de arquitetura — além de sistemas como um CRM de prospecção e um sistema bancário em Java com login seguro, depósitos, saques e transferências.
+Sou um desenvolvedor Java com interesse em desenvolvimento de sistemas, interfaces gráficas, persistência de dados. Tenho experiência em Java e Bancos de Dados relacionais e pretendo expandir continuamente no conhecimento backend como: Arquitetura de software, Computação em Nuvem e Cibersegurança.
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia. Acredito na importância de um código limpo, bem estruturado e eficiente.
 
