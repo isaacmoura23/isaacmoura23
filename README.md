@@ -17,18 +17,18 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ## 🛠️ Habilidades e Tecnologias Atuais:
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Tailwind CSS • Java • Git / GitHub • Spring Boot • PostgreSQL • MySQL • Linux
+HTML • CSS • JavaScript • React  • Node.js • Tailwind CSS • Java • Git / GitHub • Spring Boot • PostgreSQL • MySQL • Linux
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,git,github,spring,postgres,mysql,linux" alt="Habilidades atuais" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,reacts,nodejs,tailwind,java,git,github,spring,postgres,mysql,linux" alt="Habilidades atuais" />
 </p>
 
 ## 🎯 Próximos passos e Tecnologias Futuras:
 
- • Docker • AWS • Computação em Nuvem • Cibersegurança
+Next.js • C# • TypeScript • Docker • AWS • Computação em Nuvem • Cibersegurança 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" alt="Tecnologias futuras" />
+  <img src="https://skillicons.dev/icons?i=python,cs,ts,docker,aws,kotlin,nextj" alt="Tecnologias futuras" />
 </p>
 
 ---
